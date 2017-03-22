@@ -9,17 +9,13 @@ H1 {
 }
 
 .green-header {
-   background-color: #85FED1;
+   background-color: green;
    margin-top: 10px;
    margin-bottom: 10px;
    margin-left: 20px;
    margin-right: 20px;
    padding: 10PX;
 
-}
-
-.images-padding {
-  margin: 20px;
 }
 
 h2 {
@@ -34,6 +30,7 @@ html {
   font-size: 24px;
   line-height: -3px
 
+
 }
 
 footer {
@@ -45,8 +42,3 @@ footer {
   padding-bottom: 20px;
 
 }
-
-img {
-  width:384px;
-  height:308px;
- }
