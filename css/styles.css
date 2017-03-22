@@ -1,2 +1,21 @@
-/* Move your styles here when you're ready to clean up your HTML file */
-/* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+H1 {
+
+  font:WHITE;
+  background-color: #303030;
+  text-align: center;
+  margin-top: 10px;
+
+
+}
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-size: 24px;
+  line-height: -3px
+
+
+
+}
+
+li:checkedfirst-child:{ background-color: green;
+}
