@@ -35,7 +35,11 @@ html {
   line-height: -3px
 
 }
-
+.movefloat  {
+   margin: 3px;
+   float: left;
+   width:384px;
+}
 footer {
   color: #fff;
   background-color: #303030;
@@ -44,9 +48,22 @@ footer {
   padding-top: 20px;
   padding-bottom: 20px;
 
+  clear: both;
+
+}
+
+.yellow-box {
+
+  background-color: yellow;
+  width:384px;
+  
+  padding: 10px;
+  text-align: center;
+
+
 }
 
 img {
-  width:384px;
-  height:308px;
+    width:384px;
+    height:308px;
  }
