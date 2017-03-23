@@ -15,20 +15,24 @@ H1 {
    margin-left: 20px;
    margin-right: 20px;
    padding: 10PX;
+   margin: 0 auto;
+
 
 }
 
 .images-padding {
-  margin: 20px;
+  margin: 0 auto;
+  margin-right: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h2 {
   color:  #303030;
   font-size: 15px;
 }
-header {
-;
-}
+
 html {
   font-family: "Helvetica Neue", Helvetica, Arial;
   font-size: 24px;
@@ -37,9 +41,12 @@ html {
 }
 .movefloat  {
    margin: 3px;
+   margin-left: 20px;
    float: left;
    width:384px;
+
 }
+
 footer {
   color: #fff;
   background-color: #303030;
@@ -47,23 +54,28 @@ footer {
   margin-top: 10px;
   padding-top: 20px;
   padding-bottom: 20px;
-
   clear: both;
 
 }
 
-.yellow-box {
+p.yellow-box {
 
-  background-color: yellow;
+  background-color: #fcd700;
   width:384px;
-  
+  font-size: 15px;
   padding: 10px;
   text-align: center;
-
-
+  margin-top: 0px;
+  margin-left: 3px;
+  margin-bottom: 5px;
 }
 
 img {
-    width:384px;
-    height:308px;
+    width:404px;
+    height:304px;
+    margin: 3px
+ }
+
+ a:link {
+   color: #85fed1;
  }
